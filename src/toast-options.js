@@ -23,4 +23,3 @@ ToastOptions.decorators = [
 /** @nocollapse */
 ToastOptions.ctorParameters = function () { return []; };
 exports.ToastOptions = ToastOptions;
-//# sourceMappingURL=toast-options.js.map

@@ -18,4 +18,3 @@ var Toast = (function () {
     return Toast;
 }());
 exports.Toast = Toast;
-//# sourceMappingURL=toast.js.map

@@ -24,4 +24,3 @@ var CustomOption = (function (_super) {
     return CustomOption;
 }(ng2_toastr_1.ToastOptions));
 exports.CustomOption = CustomOption;
-//# sourceMappingURL=custom-option.js.map

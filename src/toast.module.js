@@ -27,4 +27,3 @@ ToastModule.decorators = [
 /** @nocollapse */
 ToastModule.ctorParameters = function () { return []; };
 exports.ToastModule = ToastModule;
-//# sourceMappingURL=toast.module.js.map
