@@ -424,5 +424,3 @@ System.registerDynamic("ng2-toastr/ng2-toastr", ["./src/toast", "./src/toast-man
   global.define = __define;
   return module.exports;
 });
-
-//# sourceMappingURL=ng2-toastr.js.map
